@@ -65,7 +65,7 @@ body::before {
 
 <!--
 <div style="background-color:rgb(255,255,255,0.5);">-->
-<p class="topicpath"><a>2024年8月10日、益子ひまわり祭</a>><a href="https://torokoid.github.io/20240817_hagurosan/">8月17日、羽黒山</a></p><!--</div>-->
+<p class="topicpath"><a>2024年8月10日、益子ひまわり祭</a>><a href="https://torokoid.github.io/20240817_hagurosan/" target="_blank">8月17日、羽黒山</a></p><!--</div>-->
 
 
 
